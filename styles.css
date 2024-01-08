@@ -16,7 +16,8 @@ p {
 }
 
 .bg-1 {
-  background-color: #1abc9c;
+  background-image: "pics\Github Cover.jpg";
+  /* background-color: #1abc9c; */
   /* Green */
   color: #ffffff;
 }
